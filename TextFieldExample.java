@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 public class TextFieldExample implements ActionListener {
- JFrame f = new JFrame("Interest Rate Calculator");
+ JFrame f = new JFrame("Simple & Compound Interest Rate Calculator");
 
  
  JTextField t,t2,t3,r,t4;
